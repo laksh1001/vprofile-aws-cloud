@@ -1,0 +1,5 @@
+# Created at 2026-07-09T03:42:23.569
+Boot Manifest-JAR contains absolute paths in classpath 'D:\hkhcoder\vprofile-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
